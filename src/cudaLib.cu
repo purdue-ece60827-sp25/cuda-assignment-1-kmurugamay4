@@ -186,4 +186,3 @@ double estimatePi(uint64_t generateThreadCount, uint64_t sampleSize,
 
         return approxPi;
 }
-46,1          19%
